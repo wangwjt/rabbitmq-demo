@@ -1,0 +1,7 @@
+### 直连类型
+GET http://localhost:8201/api/send/direct/8888888888
+Accept: application/json
+
+### 主题类型
+GET http://localhost:8201/api/send/topic/8888888888
+Accept: application/json
